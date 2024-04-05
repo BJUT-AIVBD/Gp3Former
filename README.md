@@ -6,4 +6,4 @@ Our self-build BJUT-LSD Dataset is available at [Dataset](https://github.com/BJU
 
 ## Cite this repository
 If you use this software in your work, please cite it using the following metadata.
-Wensheng Li, Jing Zhang, and Li Zhuo. (2023). GaPTC-T by BJUT-AI&VBD [Dataset]. https://github.com/BJUT-AIVBD/GVT-URS
+Wensheng Li, Jing Zhang, and Li Zhuo. (2023). GaPTC-T by BJUT-AI&VBD [Dataset]. https://github.com/BJUT-AIVBD/GaPTC-T
