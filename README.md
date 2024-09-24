@@ -2,7 +2,7 @@
 
 ## Dataset Source
 
-Our self-build BJUT-LSD Dataset is available at [Dataset](https://github.com/BJUT-AIVBD/Ga3Former/blob/main/Dataset/dataset.txt)
+Our self-build BJUT-LSD Dataset is available at [Dataset](https://github.com/BJUT-AIVBD/Gp3Former/blob/main/Dataset/dataset.txt)
 
 ## Cite this repository
 If you use this software in your work, please cite it using the following metadata.
